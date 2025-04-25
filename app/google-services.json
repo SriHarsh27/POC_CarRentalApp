@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269698723087",
+    "project_id": "poc-carrentalapp",
+    "storage_bucket": "poc-carrentalapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269698723087:android:84df5a4c325858e6ae227a",
+        "android_client_info": {
+          "package_name": "com.example.poc_carrentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ciMdGiIPZDjy0yVOfqYUHuvUpSS7EOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
