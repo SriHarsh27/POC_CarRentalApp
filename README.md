@@ -1,4 +1,6 @@
-THis is a minimal viable Android application designed for car rental companies to monitor vehicle speed during a rental. If a renter drives over the permitted speed limit, the company gets notified via Firebase.
+POC_CarRentalApp
+====================================================================================
+This is a minimal viable Android application designed for car rental companies to monitor vehicle speed during a rental. If a renter drives over the permitted speed limit, the company gets notified via Firebase.
 
 Project has been developed under the assumptions mentioned below -
 1. User already exists in the Firebase firestore
@@ -10,7 +12,7 @@ Features:
 3. Send violation information to firestore which can been later utilized by Firebase function to notify car rental company.
 
 There are three collections created on the firestore to store the sample documents. These are being referenced in the Android application.
--rentals
+- rentals
   - rental_123
     - speed_limit: 80 (number)
     - start_time: April 25, 2025 at 1:40:25 PM UTC+5:30 (timestamp)
